@@ -5,17 +5,25 @@ Welcome to Flight Price Prediction! This project aims to provide accurate predic
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Authors](#authors)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
 - [Model](#model)
+- [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
 
 Flight Price Prediction is a machine learning project that leverages historical flight data to predict future prices. By utilizing advanced algorithms and techniques, we aim to provide accurate estimates that can assist users in making informed decisions about flight bookings. The project is built on the principles of data science and aims to simplify the process of predicting flight prices.
+## Authors
+
+- [Pranshu Chadda](https://github.com/Pranshu5927)
+- [Preethan J](https://github.com/Preethan17)
+- [Areeb Afzal Kanth](https://github.com/areebkanth)
+- [Vishal Varma Chamrthi](https://github.com/vishalvarmachamarthi)
 
 ## Features
 
@@ -29,7 +37,7 @@ Flight Price Prediction is a machine learning project that leverages historical 
 
 1. Clone the repository:
 
-git clone https://github.com/your/repository.git
+git clone https://github.com/Pranshu5927/Flight-Price-Prediction
 
 
 
